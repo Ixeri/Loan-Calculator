@@ -1,5 +1,5 @@
 /* Loan Payoff Calculator
-** Daniel Lilley [2014.01.27]
+** Dan L [2014.01.27]
 ** ! To check totals if you split money between loans, edit loan balances accordingly.
 */
 
